@@ -2,7 +2,7 @@ package net.palacesoft.sfigroups;
 
 import java.util.*;
 
-public class GroupFactory {
+public class ProductFactory {
 
     private Set<Product> products = new TreeSet<Product>();
 
